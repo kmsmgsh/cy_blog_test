@@ -1,0 +1,34 @@
+---
+title: "Chunyu Wang"
+image: image.png
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/"
+    - text: Email
+      url: "mailto:mike.mahoney.218+site@gmail.com"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+    - text: oricd
+      url: "https://oricd.com"
+comments: false
+---
+
+::: column-page
+## Biography
+
+I’m a post-doc in MRC BSU Cambridge.
+
+## Selected Projects
+1. Dynamic treatment regime.
+2. Joint modeling of survival and longitudinal data.
+3. ....
+
+#### Publications
+
+#### R Packages
+:::
